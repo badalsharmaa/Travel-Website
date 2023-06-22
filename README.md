@@ -4,8 +4,6 @@ http://sstourist.lovestoblog.com/
 
 # Travel-Website
 
-![Web capture_22-6-2023_21349_](https://github.com/badalsharmaa/Travel-Website/assets/71165326/6e373308-6aeb-42ec-a49d-b8ee117e5ae8)
-
 This is a readme.md file for a tour and travel website that I created using HTML, CSS, Bootstrap and JavaScript. The website allows users to browse and book various travel packages around the world. The website has the following features:
 
 - A responsive design that adapts to different screen sizes and devices.
@@ -32,3 +30,7 @@ The website follows the following conventions:
 - The Bootstrap files are stored in the bootstrap folder.
 
 To run the website locally, you need to have a web browser and a web server. You can use any web server of your choice, such as Apache, Nginx or XAMPP. You can also use a code editor such as Visual Studio Code or Sublime Text to edit the code. To view the website, you need to open the index.html file in your web browser or enter the URL of your web server in your web browser's address bar.
+
+![Web capture_22-6-2023_21349_](https://github.com/badalsharmaa/Travel-Website/assets/71165326/6e373308-6aeb-42ec-a49d-b8ee117e5ae8)
+
+
